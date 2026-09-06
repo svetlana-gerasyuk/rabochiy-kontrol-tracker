@@ -30,3 +30,25 @@
 ```bash
 npm install
 npm start
+
+```
+## Демо
+
+🔗 [Открыть работающий проект](https://rabochiy-kontrol-tracker-production.up.railway.app)
+
+## Скриншоты
+
+### Дашборд
+![Дашборд](images/01-dashboard.png)
+
+### Сотрудники
+![Сотрудники](images/02-employees.png)
+
+### Рабочее время
+![Рабочее время](images/03-work-time.png)
+
+### Авансы
+![Авансы](images/04-advances.png)
+
+### Отчёты
+![Отчёты](images/05-reports.png)
